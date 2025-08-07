@@ -12,7 +12,7 @@ A sarcastic, fed-up AI assistant powered by LLaMA 3 via the Groq API.
 
 ```bash 
 pip install groq tiktoken
-`
+```
 
 ## API Key Setup
 Set your API key in your environment variables. You can create an API key using [Groq](https://console.groq.com/home).
