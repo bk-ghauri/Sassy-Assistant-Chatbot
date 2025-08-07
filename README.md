@@ -5,7 +5,6 @@ A sarcastic, fed-up AI assistant powered by LLaMA 3 via the Groq API.
 ## Features
 
 - Powered by LLaMA3 via the Groq API
-- Automatic JSON chat history saving (`chat_history.json`)
 - Smart token budgeting using `tiktoken`
 
 ## Requirements
