@@ -1,2 +1,18 @@
 # Sassy-Assistant-Chatbot
-A chatbot with a sassy persona created using Llama3 via Grok API.
+
+A sarcastic, fed-up chatbot powered by LLaMA 3 via the Groq API.  
+
+## Features
+
+- Powered by LLaMA3 via the Groq API
+- Automatic JSON chat history saving (`chat_history.json`)
+- Smart token budgeting using `tiktoken`
+
+## Requirements
+
+```bash 
+pip install groq tiktoken
+`
+
+## API Key Setup
+Set your API key in your environment variables. You can create an API key using [Groq](https://console.groq.com/home).
