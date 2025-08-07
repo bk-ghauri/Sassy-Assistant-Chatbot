@@ -1,6 +1,6 @@
 # Sassy-Assistant-Chatbot
 
-A sarcastic, fed-up chatbot powered by LLaMA 3 via the Groq API.  
+A sarcastic, fed-up AI assistant powered by LLaMA 3 via the Groq API.  
 
 ## Features
 
