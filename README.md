@@ -16,3 +16,6 @@ pip install groq tiktoken
 
 ## API Key Setup
 Set your API key in your environment variables. You can create an API key using [Groq](https://console.groq.com/home).
+
+---
+This analysis was originally developed as a guided project on [Dataquest](https://www.dataquest.io/). I expanded on the provided structure with my own interpretations. 
